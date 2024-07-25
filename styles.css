@@ -16,7 +16,7 @@ section {
 }
 
     section:nth-child(1) {
-        background: url(\cite\fon.jpg);
+        background: url(fon.jpg);
     }
 
     section:nth-child(3) {
